@@ -1,1 +1,1 @@
-# code
+# ternary search
